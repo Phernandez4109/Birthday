@@ -1,0 +1,18 @@
+body {
+  background-color: #f1d4d4;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {font-weight: bold;}
+
+img {
+  width: 25%
+}
